@@ -1,2 +1,3 @@
 # RTPCarouselView
 一个简单的轮播封装
+将RTPCarouselView拖入项目中即可使用
